@@ -13,9 +13,11 @@ The execution time must not be more then 10 seconds.
 
 ### Run the program:
 ```
-go run ArmstrongNumbersInt64.go
+go run ArmstrongNumbers.go
 ```
 
+#### Output:
+```
 1. 1
 2. 2
 3. 3
@@ -68,3 +70,6 @@ go run ArmstrongNumbersInt64.go
 50. 4929273885928088826
 
 Execution time: 5.417459032s
+```
+
+The full list of the numbers is here: http://mathworld.wolfram.com/NarcissisticNumber.html
